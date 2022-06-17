@@ -1,0 +1,59 @@
+body{
+	font-size: 14px;
+}
+header{
+	background-color: transparent;
+	position: absolute;
+	width: 100%;
+	padding: 20px 0;
+}
+
+#hero{
+	background-image: url("../img/home-header-bg.jpg");
+	background-size: cover;
+	background-position: top center;
+	min-height: 400px;
+}
+
+footer{
+	background-color: #000;
+	padding: 20px 0;
+	color: #aaa;
+	text-align: center;
+}
+footer h3{
+	color: #fff;
+	font-size: 24px;
+	font-weight: 600;
+}
+footer h3 span{
+	color: #fca756;
+}
+
+
+#coaches h3{
+text-align: center;
+color: #000;
+font-weight: 700;
+
+}
+
+#coaches p{
+color:#949091;
+font-size: 14px;
+text-align: center;
+}
+
+
+section{
+padding-top: 5%;
+
+}
+
+#coaches h1{
+	text-align: center;
+	color: #0000;
+		font-weight: 600;
+	
+	
+}
